@@ -7,8 +7,8 @@ Redémarrage
 -----------
 
 Pour redémarrer Home Assistant :
-   - Cliquer sur Paramètres
-   - Choisir Sustème
+   - Cliquer sur :py:func:`Paramètres'
+   - Choisir :py:func:`Système'
    - Cliquer en haut à droite sur le bouton.
 
 .. code-block:: console
