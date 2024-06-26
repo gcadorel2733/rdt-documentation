@@ -4,10 +4,12 @@ Utilisation de Home Assistant
 .. _installation:
 
 Redémarrage
-------------
+-----------
 
 Pour redémarrer Home Assistant :
-   - Cliquer sur **To use Lumache, first install it using pip:
+   - Cliquer sur Paramètres
+   - Choisir Sustème
+   - Cliquer en haut à droite sur le bouton.
 
 .. code-block:: console
 
