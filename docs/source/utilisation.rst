@@ -1,12 +1,13 @@
-Usage
+Utilisation de Home Assistant
 =====
 
 .. _installation:
 
-Installation
+Redémarrage
 ------------
 
-To use Lumache, first install it using pip:
+Pour redémarrer Home Assistant :
+   - Cliquer sur **To use Lumache, first install it using pip:
 
 .. code-block:: console
 
