@@ -19,8 +19,8 @@ Pour redémarrer Home Assistant :
 
 .. image:: images/systeme.png
   :width: 300
-  :alt: Alternative text
+   :align center
 
 .. image:: images/reboot.png 
-   :width: 150
+   :width: 50
 
