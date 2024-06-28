@@ -7,7 +7,9 @@ Redémarrage de Home Assistant
 -----------
 
 Pour redémarrer Home Assistant :
-   - Cliquer sur `Paramètres' 
+   - Cliquer sur `Paramètres' .. image:: images/parametres.png
+  :width: 150
+  :alt: Alternative text
    - Choisir `Système'
    - Cliquer en haut à droite sur le bouton.
 
@@ -16,7 +18,7 @@ Pour redémarrer Home Assistant :
    (.venv) $ pip install lumache
 
 .. image:: images/parametres.png
-  :width: 100
+  :width: 150
   :alt: Alternative text
 
 Creating recipes
