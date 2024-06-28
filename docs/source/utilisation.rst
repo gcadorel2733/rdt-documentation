@@ -16,7 +16,7 @@ Pour redémarrer Home Assistant :
    (.venv) $ pip install lumache
 
 .. image:: images/parametres.png
-  :width: 400
+  :width: 100
   :alt: Alternative text
 
 Creating recipes
