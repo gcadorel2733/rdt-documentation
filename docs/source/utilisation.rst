@@ -3,12 +3,12 @@ Utilisation de Home Assistant
 
 .. _installation:
 
-Redémarrage
+Redémarrage de Home Assistant
 -----------
 
 Pour redémarrer Home Assistant :
-   - Cliquer sur :py:func:`Paramètres'
-   - Choisir :py:func:`Système'
+   - Cliquer sur `Paramètres'
+   - Choisir `Système'
    - Cliquer en haut à droite sur le bouton.
 
 .. code-block:: console
