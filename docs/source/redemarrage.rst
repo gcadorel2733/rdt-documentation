@@ -6,10 +6,10 @@ Pour redémarrer Home Assistant :
 .. image:: images/parametres.png 
    :width: 150
 
-Cliquer sur Paramètres
+Choisir **Système**
 
 .. image:: images/systeme.png
-  :width: 150
+  :width: 300
   :alt: Alternative text
 
 .. image:: images/reboot.png 
