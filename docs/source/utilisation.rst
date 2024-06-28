@@ -24,7 +24,8 @@ Pour redémarrer Home Assistant :
   :width: 150
   :alt: Alternative text
 
-.. image:: images/parametres.png :width: 150
+.. image:: images/parametres.png 
+   :width: 150
 
 Creating recipes
 ----------------
