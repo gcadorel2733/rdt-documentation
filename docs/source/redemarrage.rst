@@ -7,6 +7,7 @@ Pour redémarrer Home Assistant :
    :width: 150
 
 de
+
 .. image:: images/parametres.png
   :width: 150
   :alt: Alternative text
