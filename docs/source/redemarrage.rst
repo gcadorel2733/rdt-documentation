@@ -9,3 +9,7 @@ Pour redémarrer Home Assistant :
          .. image:: images/systeme.png
             :width: 500
             :align: center
+   3. Cliquer en haut à droite sur le bouton.
+            .. image:: images/reboot.png
+               :width: 50
+               :align: center
