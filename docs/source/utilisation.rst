@@ -13,7 +13,7 @@ Pour redémarrer Home Assistant :
   :width: 150
   :alt: Alternative text
 
-   - Choisir `Système'
+   - Choisir **Système**
    - Cliquer en haut à droite sur le bouton.
 
 .. code-block:: console
