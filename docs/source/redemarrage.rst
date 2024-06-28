@@ -12,7 +12,7 @@ Cliquer sur Paramètres
   :width: 150
   :alt: Alternative text
 
-.. image:: images/parametres.png 
+.. image:: images/reboot.png 
    :width: 150
 
 .. table:: Truth table for "not"
