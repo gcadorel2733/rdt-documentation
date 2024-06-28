@@ -17,12 +17,3 @@ Pour redémarrer Home Assistant :
 .. image:: images/reboot.png 
    :width: 150
 
-.. table:: Truth table for "not"
-   :widths: auto
-
-   =====  =====
-     A    not A
-   =====  =====
-   False  True
-   True   False
-   =====  =====
