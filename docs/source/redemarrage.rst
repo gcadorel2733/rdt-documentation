@@ -7,7 +7,7 @@ Pour redémarrer Home Assistant :
    :width: 150
    :align center
 
-   Choisir **Système**
+2. Choisir **Système**
 
 .. image:: images/systeme.png
   :width: 300
