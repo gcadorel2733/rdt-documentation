@@ -2,7 +2,11 @@ Redémarrage de Home Assistant
 -----------
 
 Pour redémarrer Home Assistant :
- 1. Cliquer sur **Paramètres**
+   - Cliquer sur **Paramètres**
+   - Choisir **Système**
+   - Cliquer en haut à droite sur le bouton.
+
+1. Cliquer sur **Paramètres**
 
 .. image:: images/parametres.png 
    :width: 150
