@@ -21,7 +21,8 @@ Pour redémarrer Home Assistant :
 
 Documentation de cartes personnalisés
 --------
-
+Mini-card 
+http://192.168.1.33:8123/hacs/repository/151280062
 Creating recipes
 ----------------
 
