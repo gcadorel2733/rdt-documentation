@@ -19,6 +19,9 @@ Pour redémarrer Home Assistant :
                :width: 50
                :align: center
 
+Documentation de cartes personnalisés
+--------
+
 Creating recipes
 ----------------
 
